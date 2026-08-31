@@ -49,25 +49,37 @@
     "number": 4,
     "title": "The persistence of behavioral disparities post-pandemic: Insights from activity time series data",
     "authors": "Hongru Du<sup>*</sup>, <strong><u>Shaochong Xu</u></strong><sup>*</sup>, Naomi Rankin, Hao Frank Yang, Lauren M Gardner&dagger;",
-    "type": "submitted",
+    "type": "accepted",
     "isFirstAuthor": true,
+    "venue": "Scientific Reports (2026)",
     "tags": [
-      {
-        "text": "Submitted",
-        "class": "submitted-tag"
-      },
       {
         "text": "PDF",
         "class": "code-tag",
-        "link": "#"
+        "link": "https://www.nature.com/articles/s41598-026-41553-9"
       }
     ]
   },
     {
     "number": 5,
-    "title": "A Comparative Analysis of Large Language Models for Evaluating the Influence of Media on Vaccination Choice",
-    "authors": "Liyue Zhang<sup>*</sup>, <strong><u>Shaochong Xu</u></strong><sup>*</sup>, Amelia Jamison, Samee Saiyeed, Abe Bohan Hou, Hongru Du&dagger;, Lauren M Gardner&dagger; ",
-    "type": "submitted",
+    "title": "Comparing the algorithmic fidelity of large language models in predicting human decision making: a case study of vaccination choice",
+    "authors": "<strong><u>Shaochong Xu</u></strong><sup>*</sup>, Liyue Zhang<sup>*</sup>, Amelia Jamison, Samee Saiyeed, Abe Bohan Hou, Hongru Du&dagger;, Lauren M Gardner&dagger; ",
+    "type": "accepted",
+    "isFirstAuthor": true,
+    "venue": "npj Digital Public Health (2026)",
+    "tags": [
+      {
+        "text": "PDF",
+        "class": "code-tag",
+        "link": "https://www.nature.com/articles/s44482-026-00026-6"
+      }
+    ]
+  },
+  {
+    "number": 6,
+    "title": "Rising Interest in Large Language Models Is Associated with Weaker Symptom-Search Signals for Infectious Disease Modeling",
+    "authors": "<strong><u>Shaochong Xu</u></strong><sup>*</sup>, Hongru Du&dagger;, Lauren M Gardner&dagger; ",
+    "type": "Submitted",
     "isFirstAuthor": true,
     "tags": [
       {
